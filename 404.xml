@@ -6,8 +6,8 @@
           fetch="https://github.com/" />
 
   <remote name="404"
-          fetch="https://github.com/404-Mess"
-          revision="shinka" />
+          fetch="https://github.com/P-404"
+          revision="rippa" />
 
   <remote name="404-gitlab"
           fetch="https://gitlab.com/project-404"
