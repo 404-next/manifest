@@ -26,7 +26,7 @@ Error 404: Bugs not found!
 
  	```bash
          mkdir p-404 && cd p-404
-         repo init -u https://github.com/P-404/platform_manifest -b shinka
+         repo init -u https://github.com/404-next/manifest.git -b shinka
          repo sync -c -j$(nproc --all) --force-sync --no-clone-bundle --no-tags
  	```
 
